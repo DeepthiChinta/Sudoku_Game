@@ -25,7 +25,4 @@ Welcome to the Sudoku Game project! This web-based Sudoku game allows users to p
 4. The game validates your moves in real-time.
 5. Try to fill the entire board correctly as quickly as possible.
 
-## Contributing
-
-If you would like to contribute to this project, feel free to fork the repository and submit a pull request. For major changes, please open an issue first to discuss the proposed changes.
 
