@@ -8,7 +8,6 @@ Welcome to the Sudoku Game project! This web-based Sudoku game allows users to p
 ![Sudoku Game Screenshot](screenshot.png)
 
 ## Features
-
 - *Interactive Sudoku Board:* Play the Sudoku game on an interactive and user-friendly board.
 - *Difficulty Levels:* Choose from different difficulty levels (Easy, Medium, Hard) to challenge yourself.
 - *Timer:* Track your time to see how quickly you can solve the puzzle.
