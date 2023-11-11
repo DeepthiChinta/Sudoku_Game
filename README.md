@@ -1,1 +1,1 @@
-# suduko_game
+# sudoku_game
