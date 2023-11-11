@@ -35,7 +35,7 @@ hard=['1657894322975183469738216548473125964637291582846759319235461788513642976
 
 
 function start(){
-    for(var i=0;i<6;i++){
+    for(var i=0;i<9;i++){
         document.getElementsByClassName("label")[i].setAttribute("onclick","return false;");
     }
     timer();
