@@ -5,7 +5,7 @@
 
 Welcome to the Sudoku Game project! This web-based Sudoku game allows users to play the classic puzzle game with an intuitive interface. The project is built using HTML, CSS, and JavaScript.
 
-![Sudoku Game Screenshot](screenshot.png)
+![Sudoku Game Screenshot](sudoku.jpg)
 
 ## Features
 - *Interactive Sudoku Board:* Play the Sudoku game on an interactive and user-friendly board.
